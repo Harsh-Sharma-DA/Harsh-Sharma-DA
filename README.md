@@ -11,7 +11,7 @@ I've always believed that learning by doing is the best way to grow — and that
 - Basic HTML & CSS for frontend work
 
 ## 📊 My Projects So Far:
-- **[Netflix Data Analysis](https://github.com/Harsh-Sharma-DA/netflix-data-analysis):**  
+- **[Netflix Data Analysis](https://github.com/Harsh-Sharma-DA/Project/tree/main/Data_Analytics/Netflix_Data_Analytics):**  
   A beginner-friendly data exploration project using the Netflix dataset. This helped me understand data cleaning, filtering, and deriving insights from real-world data.
 
 - *Portfolio Website:*  
