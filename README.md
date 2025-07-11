@@ -24,6 +24,6 @@ I've always believed that learning by doing is the best way to grow — and that
 - 📚 Also brushing up on topics I’ve learned earlier to stay sharp
 
 ## 📫 Let’s Connect:
-- [LinkedIn](https://www.linkedin.com/in/harsh-sharma-da/)
-
-Thanks for visiting my profile 😊 Feel free to check out my work or drop a message!
+ <a href="https://www.linkedin.com/in/harsh-sharma-da/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="om-kumar-39ab62295" height="30" width="40" /></a>  
+<hr>
+<div align = "center"><p>Thanks for visiting my profile 😊 Feel free to check out my work or drop a message!</p></div>
